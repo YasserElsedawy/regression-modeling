@@ -2,7 +2,7 @@
 We will be building a dataset from scratch and experimenting some ideas with regression models.
 This dataset includes official data collected from different sources such as Eurostat, Istat, Statista, World Bank, Government platforms, Teleport, OECD, and Numbeo. The data will be exploring a sample of 42 cities ranked by 13 selected variables.
 
-The question that we will try to answer will be, can we build a model to predict the number of people visiting a certain city?
+The question that we will try to answer is: can we build a model to forecast the number of people visiting a certain city?
 
 The data will be tested for correlation to measure if those variables have a relationship with the the number of people visiting a certain city each year, and to also measure if we can predict the numbers of people visiting a city throughout those variables. We will be measuring how those variables are in relationship with each other. A regression analysis will be implemented, both linear simple regression and multiple linear regression, a prediction model will be produced based on the data and evaluated with different methodologies.
 
