@@ -1,6 +1,6 @@
 # regression-modeling
 We will be building a dataset from scratch and experimenting some ideas with regression models.
-This dataset includes official data collecte from different sources such as Eurostat, Istat, Statista, World Bank, Government platforms, Teleport, OECD, and Numbeo. The data will be exploring a sample of 42 cities ranked by 13 selected variables.
+This dataset includes official data collected from different sources such as Eurostat, Istat, Statista, World Bank, Government platforms, Teleport, OECD, and Numbeo. The data will be exploring a sample of 42 cities ranked by 13 selected variables.
 
 The question that we will try to answer will be, can we build a model to predict the number of people visiting a certain city?
 
