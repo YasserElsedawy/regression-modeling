@@ -1,4 +1,4 @@
-# regression-modeling for Cities European Dataset
+# Regression-Modeling for European Cities dataset collected manually
 We will be building a dataset from scratch and experimenting some ideas with regression models.
 This dataset includes official data collected from different sources such as Eurostat, Istat, Statista, World Bank, Government platforms, Teleport, OECD, and Numbeo. The data will be exploring a sample of 42 cities ranked by 13 selected variables.
 
